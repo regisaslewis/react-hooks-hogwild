@@ -5,11 +5,6 @@ import Tiles from "./Tiles";
 import hogs from "../porkers_data";
 
 function App() {
-
-	function handleFilter() {
-		
-	}
-
 	return (
 		<div className="App">
 			<Nav />
