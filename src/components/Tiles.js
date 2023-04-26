@@ -15,7 +15,6 @@ function Tiles({ hogs }) {
 
   return (
     <div>
-      <button>Show Only Greased Pigs</button>
       {hogList}
     </div>
   )
